@@ -1,14 +1,5 @@
-- 👋 Hi, I’m @golova7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi 👋
 
-<!---
-golova7/golova7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-![Profile views](https://gpvc.arturio.dev/golova7)
+I'm a senior Full-Stack developer who likes to work with Javascript /Typescript Frameworks(React, Vue, Angular, MEAN Stack, TypeScript, TailwindCSS, Next, Nuxt and Node JS), Backend-side(PHP, Java, Python Django, Flask), and Mobile-side(React Native, Ionic, Android/iOS native, Flutter).
+
+Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine and I am confident I would be an excellent addition to your organization. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. This has allowed me to stay ahead of the curve and deliver exceptional work to all of my employers, including those I've worked for on a project basis.
